@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>90461351-11b5-4170-8090-99ad606081f2</testSuiteGuid>
+   <testCaseLink>
+      <guid>7366d8cb-b14c-41ae-b202-c103d8f23c37</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC001</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d95a38a2-44f0-4cc2-aea3-99b6c82f0b88</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e5a75319-c370-4a0d-beff-5ce0de6793f9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC002</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ff285a22-fcbc-4650-a6a6-4cdab3ed6b28</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f36a944f-f3ca-4bde-9d96-e087150f9d5a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC003</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cf3593e6-6d28-48dd-a8f2-9a2af4d3974f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fa2f79c1-e253-4d62-9af3-861789d4707c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC004</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c8e198e6-e803-4161-aa2b-94900b973a53</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3026b31b-9a52-437a-86e6-37928d359b0c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC005</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f2583a7a-63a8-4c7b-a4f7-efb5c5bcb741</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
